@@ -15,7 +15,7 @@ into specific areas in Hudson County. The proximity to NYC is hard to beat and a
 makes this county the perfect location to explore. We are task to explore this area and determine the best zip codes in
 Hudson County to invest in. 
 1.	Can we successfully use the available data to predict future ROI’s for all the zip codes in Hudson County? 
-2.	What zip codes present the best ROI’s to in 2018 and 2019? 
+2.	What zip codes present the best ROI’s to in 2018? 
 3.	What investment strategies can be formulated by using the available data set provided by Zillow?
 4.	Can we build a tool that streamline prediction models and limit complexity to reduce time and cost? 
 
