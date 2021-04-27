@@ -35,7 +35,6 @@ This dataset contains 14723 rows and 272 columns
 
 ## Method
 
-
 The analysis performed in my main Jupiter notebook follows a CRISP-DM method approach. Using a reputable dataset, I was 
 able to use the data to make predictions of future home values price. To achieve this the first step is to transform the 
 data format into a long format that is required when performing time series analysis. Understanding the best problem was 
@@ -51,7 +50,7 @@ To achieve stationarity with all the time series, representing the median home s
 
 ## Results 
 
-
+<img src="https://github.com/Eric-G-Romano/dsc-phase-4-project/blob/main/images/ROI%20for%20Zipcodes%20in%20Hudson%20County.png" width="500" height="500"> 
 
 For our final model we determined that the best location to begin investing in is found in the graph above. All but one zipcode 
 in Jersey City presents the best possible ROI for the year of 2018. Looking at our risk to reward profile we see that highest 
