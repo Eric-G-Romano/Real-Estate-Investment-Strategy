@@ -57,9 +57,18 @@ in Jersey City presents the best possible ROI for the year of 2018. Looking at o
 coefficient of variations (CV) falls right below 2.5. Comparatively, the ETF has a higher CV of 2.6. This suggests that these 
 markets provide a safer investment relative to that of investing in other securities.
 
-<img src="https://github.com/Eric-G-Romano/dsc-phase-4-project/blob/main/images/ROI%20for%20Zipcodes%20in%20Hudson%20County.png" width="500" height="500">
-
 ## Evaluations
+AR Model
+![](images/Order11_2_0.png) 
+
+MA Model
+![](images/Order0_2_3.png) 
+
+ARIMA Model
+![](images/Order9_2_3.png) 
+
+Final Model: SARIMA Model
+![](images/Order0_2_0_0_0_0_12_6months.png) 
 
 ## Conclusion
 
