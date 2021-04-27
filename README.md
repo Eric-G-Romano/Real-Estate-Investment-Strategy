@@ -1,3 +1,4 @@
+![](images/Hudson_county_%20.PNG)
 # Real Estate Investment Statergy 
 ### Author: Eric Romano
 ## Overview
@@ -30,10 +31,10 @@ The dataset that we will be using contains the median home sales prices througho
 With this dataset you can extract a lot of insight through out all states with the potential to understand markets and 
 develop investment strategies. This platform allows the public to do independent research in any market in the US. 
 
-[Zillow Median Home Sales Price]
 This dataset contains 14723 rows and 272 columns 
 
 ## Method
+
 
 The analysis performed in my main Jupiter notebook follows a CRISP-DM method approach. Using a reputable dataset, I was 
 able to use the data to make predictions of future home values price. To achieve this the first step is to transform the 
@@ -44,13 +45,13 @@ in Hudson County to possibly invest in. Using SARIMAX models I was able to creat
 lag orders allowing us to use past data that persist onto the future. However, to avoid complicated and computationally 
 costly models I selected using AutoARIMA function to streamline the process and cut down on the complexity of the models.
 
-Show a graph that shoe differencing twice 
+<img src="https://github.com/Eric-G-Romano/dsc-phase-4-project/blob/main/images/Stationarity_check.png" width="500" height="500"> 
 
 To achieve stationarity with all the time series, representing the median home sale prices, I performed differencing twice.
 
 ## Results 
 
-Show the graph of the table of zipcodes 
+
 
 For our final model we determined that the best location to begin investing in is found in the graph above. All but one zipcode 
 in Jersey City presents the best possible ROI for the year of 2018. Looking at our risk to reward profile we see that highest 
