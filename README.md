@@ -1,4 +1,4 @@
-![](images/Hudson_county_%20.PNG)
+![](images/Hudson_county_.PNG)
 # Real Estate Investment Statergy 
 ### Author: Eric Romano
 ## Overview
