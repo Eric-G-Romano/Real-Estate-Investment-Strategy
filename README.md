@@ -50,7 +50,7 @@ To achieve stationarity with all the time series, representing the median home s
 
 ## Results 
 
-![](images/ROI%20for%20Zipcodes%20in%20Hudson%20County.png.PNG) 
+![](images/ROI%20for%20Zipcodes%20in%20Hudson%20County.png) 
 
 For our final model we determined that the best location to begin investing in is found in the graph above. All but one zipcode 
 in Jersey City presents the best possible ROI for the year of 2018. Looking at our risk to reward profile we see that highest 
