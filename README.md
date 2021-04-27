@@ -50,12 +50,14 @@ To achieve stationarity with all the time series, representing the median home s
 
 ## Results 
 
-<img src="https://github.com/Eric-G-Romano/dsc-phase-4-project/blob/main/images/ROI%20for%20Zipcodes%20in%20Hudson%20County.png" width="500" height="500"> 
+![](images/ROI%20for%20Zipcodes%20in%20Hudson%20County.png.PNG) 
 
 For our final model we determined that the best location to begin investing in is found in the graph above. All but one zipcode 
 in Jersey City presents the best possible ROI for the year of 2018. Looking at our risk to reward profile we see that highest 
 coefficient of variations (CV) falls right below 2.5. Comparatively, the ETF has a higher CV of 2.6. This suggests that these 
 markets provide a safer investment relative to that of investing in other securities.
+
+<img src="https://github.com/Eric-G-Romano/dsc-phase-4-project/blob/main/images/ROI%20for%20Zipcodes%20in%20Hudson%20County.png" width="500" height="500">
 
 ## Evaluations
 
