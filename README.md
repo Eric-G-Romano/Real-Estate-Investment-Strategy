@@ -70,6 +70,9 @@ ARIMA Model
 Final Model: SARIMA Model
 ![](images/Order0_2_0_0_0_0_12_6months.png) 
 
+Forecast
+![](images/forecast_WNY.png) 
+
 ## Conclusion
 
 In conclusion, The Zillow median home sale prices are a great dataset to develop insights that will help in the processes
@@ -110,10 +113,10 @@ For any additional questions, please contact **Eric Romano** at [egustavo94@gmai
 ```bash
 
 ├── README.md                                   < The top-level README for reviewers of this project
-├── Mortgage_Loan_Denial_Classification.ipynb   < Narrative documentation of analysis in Jupyter notebook
-├── Mortgage_Loan_Denial_Classification_ppt.pdf     < PDF version of project presentation
-├── Mortgage_Loan_Denial_Classification.pdf     < PDF version of Jupyter notebook
+├── Real_Estate_Investment_Strategy.ipynb       < Narrative documentation of analysis in Jupyter notebook
+├── Real_Estate_Investment_Strategy.pdf         < PDF version of project presentation
+├── Real_Estate_Investment_Strategy.pdf         < PDF version of Jupyter notebook
 ├── data                                        < CSV file used for this project
-├── image                                       < Visualizations generated for analysis
-└── images                                      < Visualizations generated for analysis
+├── images                                      < Visualizations generated for analysis
+
 ```
