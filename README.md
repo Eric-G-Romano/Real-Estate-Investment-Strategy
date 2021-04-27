@@ -116,7 +116,8 @@ For any additional questions, please contact **Eric Romano** at [egustavo94@gmai
 ├── Real_Estate_Investment_Strategy.ipynb       < Narrative documentation of analysis in Jupyter notebook
 ├── Real_Estate_Investment_Strategy.pdf         < PDF version of project presentation
 ├── Real_Estate_Investment_Strategy.pdf         < PDF version of Jupyter notebook
-├── data                                        < CSV file used for this project
+├── timeseries                                  < CSV file used for this project
+├── side_analysis                               < Different Jupyter notebooks
 ├── images                                      < Visualizations generated for analysis
 
 ```
