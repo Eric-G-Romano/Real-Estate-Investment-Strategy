@@ -1,5 +1,5 @@
 ![](images/Hudson_county_.PNG)
-# Real Estate Investment Statergy 
+# Real Estate Investment Strategy: Using Time Series
 ### Author: Eric Romano
 ## Overview
 One of the many questions that are asked about investments is why should you invest in real estate vs the stock market. As 
